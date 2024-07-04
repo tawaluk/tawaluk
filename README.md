@@ -6,7 +6,7 @@
 </div>
 
 <div id='main'>
-  <h3> Меня зовут Святослав, я начинающий разработчик. Мне очень интересная сфера web-разработки, а особенно backend. </h2>
+  <h3> Меня зовут Святослав, я web-backend разработчик.</h2>
   <h3>Мой стек:</h3>
     <div id="stack" align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50 />
