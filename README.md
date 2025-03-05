@@ -10,6 +10,7 @@
   <h3>Мой стек:</h3>
     <div id="stack" align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50 />
+     <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/rust.svg" width=50 height=50 />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width=50 height=50 />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width=50 height=50/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=50 height=50 /> 
