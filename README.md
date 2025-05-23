@@ -6,8 +6,8 @@
 </div>
 
 <div id='main'>
-  <h3> Меня зовут Святослав, я web-backend разработчик.</h2>
-  <h3>Мой стек:</h3>
+  <h3> Hello everyone! My name is Svyatoslav, I am a backend developer. My main language is Python. I also really like Rust, CS and many other things.</h2>
+  <h3>My stack:</h3>
     <div id="stack" align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50 />
      <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/rust.svg" width=50 height=50 />
@@ -20,6 +20,6 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width=50 height=50 />               
     </div>
 </div>                   
- <h3>Моя статистика:</h3>                        
+ <h3>My statistics:</h3>                        
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawaluk)](https://github.com/anuraghazra/github-readme-stats)
