@@ -20,6 +20,3 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width=50 height=50 />               
     </div>
 </div>                   
- <h3>My statistics:</h3>                        
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawaluk)](https://github.com/anuraghazra/github-readme-stats)
